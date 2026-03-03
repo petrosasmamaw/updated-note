@@ -7,7 +7,7 @@ import Blogdetail from './Blogdetail'
 import Create from './Create'
 import { NoteProvider } from './NoteContext'
 import Favorites from './favorites'
-
+.
 const App = () => {
   return (
       <NoteProvider>
